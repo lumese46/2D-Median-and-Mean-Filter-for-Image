@@ -1,0 +1,11 @@
+commit 84ddb9a3064263629d95705694f7d1bd77679f48
+Author: Lumese <oratlilerpo46@gmail.com>
+Date:   Sun Aug 14 15:57:13 2022 +0200
+
+    serial edit
+
+commit 072c925b17e446aaa418557a4fdd53c589e8f096
+Author: Lumese <oratlilerpo46@gmail.com>
+Date:   Sun Aug 14 15:54:54 2022 +0200
+
+    final commits
